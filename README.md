@@ -2,7 +2,7 @@
 
 ## Memebres du groupe 
 - Thiziri HAFIR
-- Louis VISONEAU
+- Louis VISONNEAU
 - Aloys VERNHET
 
 ## Livrables du projet 
