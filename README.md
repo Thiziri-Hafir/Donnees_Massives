@@ -21,6 +21,6 @@ Pour ce projet, on se basant sur les données de climat et de localisation en Br
 
 ## Description des données 
 Nous utilisont divers jeux de données :
-- arabica_data_cleaned.csv : qui représnete des données sur 
+- arabica_data_cleaned.csv : qui représente des données sur la qualité du café, sur les graines et sur les fermes de café.
 - station_.csv : qui représente des données géographiques de plusieurs stations météorologhiques du Brézil.
-- weather_sum_all.csv: qui représnete des données climatiques des stations métérologiques du Brézil pendant les 22 dernières années.
+- weather_sum_all.csv: qui représente des données climatiques des stations métérologiques du Brézil pendant les 22 dernières années.
